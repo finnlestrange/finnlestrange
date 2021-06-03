@@ -2,10 +2,8 @@
 
 ## About Me 📌
 
- * 🐍 Self-taught Python (**1.5+ years**) and Java Developer (**1 year**) & CTF Player
- * ☕ I have experience in Java development, Python for data science, basic Javascript and React JS, and some machine learning
+ * 🐍 I have experience in Java development, Python for data science, basic Javascript and React JS
  * 📠 You can find many of my CTF write-ups and blog posts here - [https://71xn.github.io](https://71xn.github.io)
- * 📚 I am currently re-learning python and learning TensorFlow
  * 🎒 [International School Aberdeen](https://github.com/InternationalSchoolAberdeen)
  * 📍 **Aberdeen, UK**
 
