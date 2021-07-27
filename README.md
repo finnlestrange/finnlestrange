@@ -1,25 +1,21 @@
 <h1 align="center">Hi 👋, I'm Finn</h1>
 
-## About Me 📌
-
- * 🐍 I have experience in Java development, Python for data science, basic Javascript and React JS
- * 📠 You can find many of my CTF write-ups and blog posts here - [https://71xn.github.io](https://71xn.github.io)
- * 🎒 [International School Aberdeen](https://github.com/InternationalSchoolAberdeen)
- * 📍 **Aberdeen, UK**
+- 🍩 17 year old computer science and mathematics student
+- 🐍 Experience in Java development, Python & JS
+- ☕ Current work and projects can be found here ➡ [finnlestrange.tech/projects](https://finnlestrange.tech/projects)
+- 📠 Blog posts & CTF write-ups ➡ [https://dev.to/71xn](https://dev.to/71xn)
+- 🎒 I currently attend [The International School Aberdeen](https://github.com/InternationalSchoolAberdeen)
+- 📍  Aberdeen, UK
 
 ## 🧠 My Active Projects
- * ![](https://github.com/InternationalSchoolAberdeen/aiproject/raw/main/favicon-16x16.png) [DeepText](https://internationalschoolaberdeen.github.io/aiproject/) Natural Language Generator
 
-## 📫 How to reach me
- * Email - [finn.lestrange [at] gmail.com](mailto:finn.lestrange@gmail.com)
- * Twitter - [@finnlestrange](https://twitter.com/finnlestrange)
-
+- ![](https://github.com/InternationalSchoolAberdeen/aiproject/raw/main/favicon-16x16.png) [DeepText](https://internationalschoolaberdeen.github.io/aiproject/) Natural Language Generator
 
 ## 🔭 I’m currently working on . . .
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=71xn&repo=DeepText&theme=material-palenight)](https://github.com/71xn/DeepText)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=71xn&repo=learning-python&theme=material-palenight)](https://github.com/71xn/learning-python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=71xn&repo=python-ml&theme=material-palenight)](https://github.com/71xn/python-ml)
 
 ## ⚡ My Stats
 
-![Finn's GitHub stats](https://github-readme-stats.vercel.app/api?username=71xn&show_icons=true&theme=material-palenight) 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=71xn&layout=compact&theme=material-palenight)](https://github.com/71xn)
+![Finn's GitHub stats](https://github-readme-stats.vercel.app/api?username=71xn&show_icons=true&theme=material-palenight)
