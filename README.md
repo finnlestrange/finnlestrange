@@ -11,11 +11,6 @@
 
 - ![](https://github.com/InternationalSchoolAberdeen/aiproject/raw/main/favicon-16x16.png) [DeepText](https://internationalschoolaberdeen.github.io/aiproject/) Natural Language Generator
 
-## 🔭 I’m currently working on . . .
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=71xn&repo=DeepText&theme=material-palenight)](https://github.com/71xn/DeepText)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=71xn&repo=python-ml&theme=material-palenight)](https://github.com/71xn/python-ml)
-
 ## ⚡ My Stats
 
 ![Finn's GitHub stats](https://github-readme-stats.vercel.app/api?username=71xn&show_icons=true&theme=material-palenight)
