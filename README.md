@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Finn</h1>
 
 ## About Me 📌
-- 🍩 18 year old computer science and mathematics student
+- 🍩 Computer science and mathematics student
 - 🐍 Experience in Java development, Python & JS
 - ☕ Current work and projects can be found here ➡ [finnlestrange.tech/projects](https://finnlestrange.tech/projects)
-- 📠 Blog posts & CTF write-ups ➡ [https://dev.to/71xn](https://dev.to/71xn)
+- 📠 Blog posts & CTF write-ups ➡ [finnlestrange.tech/blog](https://finnlestrange.tech/blog)
 - 🎒 [The International School Aberdeen](https://github.com/InternationalSchoolAberdeen)
 
 ## 🧠 My Active Projects
