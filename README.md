@@ -9,4 +9,4 @@
 
 ## 🧠 My Active Projects
 
-- Nothing as of right now . . .
+- ⚛ Nothing as of right now . . .
