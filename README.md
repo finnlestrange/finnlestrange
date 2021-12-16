@@ -9,4 +9,4 @@
 
 ## 🧠 My Active Projects
 
-- ![](https://github.com/InternationalSchoolAberdeen/aiproject/raw/main/favicon-16x16.png) [DeepText](https://internationalschoolaberdeen.github.io/aiproject/) Natural Language Generator
+- Nothing as of right now . . .
