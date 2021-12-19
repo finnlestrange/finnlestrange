@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Finn Lestrange</h1>
+<h1 align="center">Hi 👋, I'm Finn</h1>
 
 ## About Me 📌
 - 🍩 Computer science and mathematics student
