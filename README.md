@@ -8,4 +8,4 @@
 
 ## 🧠 My Active Projects
 
-- 🍎 [React JS Pomodoro Timer](https://pomodoro.finnlestrange.tech/)
+- 🍅 [React JS Pomodoro Timer](https://pomodoro.finnlestrange.tech/)
