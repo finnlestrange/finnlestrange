@@ -5,4 +5,4 @@
 - Computer Science / Software Engineering Student @ University of Glasgow
 - Software Engineer @ The International School Aberdeen
 
-### 🌎 [finnlestrange.tech](https://finnlestrange.tech)
+### 🌎 [finnlestrange.dev](https://finnlestrange.dev)
