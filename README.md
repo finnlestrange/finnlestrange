@@ -2,7 +2,7 @@
 
 ### 📌 About Me 
 > [!Important]
-> Hey I'm a 4th Year Student & Part Time Software Engineer @ The University of Glasgow. I am looking out for any internships / summer placement offers for the `2024/25` academic year / summer.
+> Hey I'm a 3rd Year Student & Part Time Software Engineer @ The University of Glasgow. I am looking out for any internships / summer placement offers for the `2024/25` academic year / summer.
 
 **[finnlestrange.dev](https://finnlestrange.dev)**
 
