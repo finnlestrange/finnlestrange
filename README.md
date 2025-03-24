@@ -10,7 +10,8 @@
 
 ## [finnlestrange.dev](https://finnlestrange.dev)
 
-- Software Engineer ([GUSS](https://guss.org.uk/)) @ University of Glasgow, School of Computing Science
+- Software Engineer ([GUSS](https://guss.org.uk/)) @ University of Glasgow, School of Computing Science (2023 - present)
+- IT / Software Consultant @ International School Aberdeen (2021 - 2024)
 
 ## Gists
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=c092e62a5c6197189cbe08e9666bc2c0&show_owner=true&theme=dark&bg_color=00000000)](https://gist.github.com/finnlestrange/c092e62a5c6197189cbe08e9666bc2c0/) [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=5a1d8465c094678b9f87c65198d41cf1&show_owner=true&theme=dark&bg_color=00000000)](https://gist.github.com/finnlestrange/5a1d8465c094678b9f87c65198d41cf1/)
