@@ -7,7 +7,5 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=finnlestrange&show_icons=true&theme=dark&bg_color=00000000&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-## [finnlestrange.dev](https://finnlestrange.dev)
-
-## Gists
+### Gists
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=c092e62a5c6197189cbe08e9666bc2c0&show_owner=true&theme=dark&bg_color=00000000)](https://gist.github.com/finnlestrange/c092e62a5c6197189cbe08e9666bc2c0/) [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=5a1d8465c094678b9f87c65198d41cf1&show_owner=true&theme=dark&bg_color=00000000)](https://gist.github.com/finnlestrange/5a1d8465c094678b9f87c65198d41cf1/)
